@@ -110,4 +110,4 @@ Dashboard for analyzing public GitHub profiles and repositories.
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/sivani-js-5a1000315/)
-- 📧 Email: sivanijs2003.9@gmail.com
+- 📧 Email: sivanijs541@gmail.com
